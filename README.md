@@ -10,5 +10,6 @@ Un blog para el [curso de Git y GitHub](http://https://platzi.com/clases/git-git
 * Trucos del profesor
 * Creado por el increible Javi Team
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 Y un amable recordatorio **Este read.me es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO. 
